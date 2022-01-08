@@ -1,0 +1,14 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 6] test cases in the current suite
+Test Method:		[login_TC.ValidLoginUserWrongPass]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFile.json"]. @08-01-2022 18:19:27.0499 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/JsonFile.json]. @08-01-2022 18:19:27.0501 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @08-01-2022 18:19:27.0503 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFile.json"]. @08-01-2022 18:19:39.0401 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220108-181858", Target File: "\1641658780566_ValidLoginUserWrongPass.gif"]. @08-01-2022 18:19:40.0713 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [amr_yuaivro_test@tfbnw.net]. @08-01-2022 18:19:41.0104 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFile.json"]. @08-01-2022 18:19:41.0108 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [wrongpass]. @08-01-2022 18:19:42.0226 PM
+[ReportManager] Successfully created attachment [Animated Gif - ValidLoginUserWrongPass] @08-01-2022 18:19:49.0580 PM
