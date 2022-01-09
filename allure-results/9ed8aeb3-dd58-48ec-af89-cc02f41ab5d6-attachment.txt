@@ -1,0 +1,35 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.4.20211202-BETA]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @09-01-2022 22:16:59.0922 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @09-01-2022 22:16:59.0963 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @09-01-2022 22:16:59.0963 PM
+[ReportManager] Successfully Opened Google Chrome. @09-01-2022 22:17:08.0847 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[Register_TC.validRegistration]
+################################################################################################################################################
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:12.0356 PM
+[ReportManager] Successfully loaded the following test data file [src/test/resources/testDataFiles/JsonFileRegistration.json]. @09-01-2022 22:17:12.0359 PM
+[ReportManager] Successfully created attachment [Test Data - JSON] @09-01-2022 22:17:12.0943 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:17.0379 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20220109-221712", Target File: "\1641759441214_validRegistration.gif"]. @09-01-2022 22:17:21.0445 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [amr]. @09-01-2022 22:17:21.0954 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:21.0975 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Hayat]. @09-01-2022 22:17:22.0687 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:22.0704 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [bairon84@osmye.com]. @09-01-2022 22:17:23.0427 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:23.0446 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [159753645852qQ!]. @09-01-2022 22:17:24.0037 PM
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "src/test/resources/testDataFiles/JsonFileRegistration.json"]. @09-01-2022 22:17:24.0048 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [bairon84@osmye.com]. @09-01-2022 22:17:24.0627 PM
+[ReportManager] Successfully created attachment [Animated Gif - validRegistration] @09-01-2022 22:17:25.0197 PM
+[ReportManager] Successfully created attachment [Video Recording - afterMethod] @09-01-2022 22:17:29.0664 PM
+[ReportManager] Successfully Closed All Drivers. @09-01-2022 22:17:34.0603 PM
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @09-01-2022 22:17:34.0621 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.4.20211202-BETA]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

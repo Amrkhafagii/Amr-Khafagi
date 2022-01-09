@@ -6,4 +6,9 @@
 			<class name="login_TC" />
 		</classes>
 	</test>
+	<test name="Registration">
+		<classes>
+			<class name="Register_TC" />
+		</classes>
+	</test>
 </suite> 

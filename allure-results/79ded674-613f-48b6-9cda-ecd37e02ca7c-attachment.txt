@@ -1,2 +1,0 @@
-[ReportManager] Successfully created attachment [Video Recording - afterMethod] @08-01-2022 18:20:06.0784 PM
-[ReportManager] Successfully Closed All Drivers. @08-01-2022 18:20:09.0472 PM
