@@ -6,5 +6,5 @@
 * proposed solutions:
 * Using SHAFT here for was for preventing issues could happen cause of dependencies versions as time for solving these issues will take time, as it provides ready made classes and methods based on selenium help implementation to be faster and simple
 * Used relative and absolute xpaths
-* Used Json rather than excel for better performance, in addition I dont have excel program
+* Used Json rather than excel for better performance.
 * Added test classes in xml to control the execution of the tests 
